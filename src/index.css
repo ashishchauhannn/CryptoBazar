@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Outfit:wght@100..900&display=swap');
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+
 }
+
 
 a {
   text-decoration: none;
@@ -13,4 +18,5 @@ a {
   min-height: 100vh;
   background: rgb(34, 193, 195);
   background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+
 }
