@@ -59,8 +59,10 @@
 .cryptotable {
     max-width: 800px;
     margin: auto;
-    background: rgb(34, 195, 185);
-    background: linear-gradient(0deg, rgba(34, 195, 185, 1) 20%, rgba(199, 253, 45, 0.2497373949579832) 74%);
+    /* background: rgb(34, 195, 185);
+    background: linear-gradient(0deg, rgba(34, 195, 185, 1) 20%, rgba(199, 253, 45, 0.2497373949579832) 74%); */
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
     border-radius: 15px;
 }
 
@@ -69,7 +71,7 @@
     grid-template-columns: 0.5fr 2fr 1fr 1fr 1.5fr;
     padding: 15px 20px;
     align-items: center;
-    border-bottom: 1px solid aquamarine;
+    border-bottom: 1px solid pink;
     color: white;
 }
 
