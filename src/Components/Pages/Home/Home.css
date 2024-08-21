@@ -76,3 +76,45 @@
 .marketcap {
     text-align: right;
 }
+
+.tablelayout:last-child {
+    border: none;
+}
+
+.tablelayout div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.tablelayout div img {
+    width: 35px;
+}
+
+.price24h {
+    text-align: center;
+}
+
+@media(max-width:680px) {
+    .tablelayout {
+        grid-template-columns: 0.5fr 2fr 1fr 1fr 1.5fr;
+    }
+
+    .marketcap {
+        display: none;
+    }
+}
+
+@media(max-width:680px) {
+    .tablelayout div img {
+        width: 25px;
+    }
+
+    .tablelayout {
+        font-size: 12px;
+    }
+
+    .hero form input {
+        width: 100px;
+    }
+}
