@@ -1,9 +1,12 @@
 .footer {
     text-align: center;
+
     margin: auto;
     max-width: 80%;
     padding: 15px 0px;
     font-size: 10px;
     color: whitesmoke;
     border-top: 1px solid whitesmoke;
+
+
 }
