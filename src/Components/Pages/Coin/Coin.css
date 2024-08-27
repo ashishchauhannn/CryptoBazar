@@ -20,3 +20,52 @@
         transform: rotate(360deg);
     }
 }
+
+.coin {
+    padding: 0 20px;
+}
+
+.coinname {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 50px auto;
+    margin-bottom: 50px;
+
+}
+
+.coinname img {
+    max-width: 120px;
+}
+
+.coinname p b {
+    font-size: 30px;
+    font-weight: 500;
+    color: white
+}
+
+.coinchart {
+    max-width: 700px;
+    height: 200px;
+    margin: auto;
+}
+
+.coininfo {
+    max-width: 600px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.coininfo ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+    border-bottom: 1px solid whitesmoke;
+    list-style: none;
+    border: none;
+}
