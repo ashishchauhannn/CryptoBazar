@@ -24,7 +24,7 @@ vercel
 Follow the prompts to configure your project. Vercel will automatically detect the Vite setup and configure the deployment accordingly.
 Set Environment Variables on Vercel: Go to your project dashboard on Vercel, navigate to the “Settings” tab, and add your environment variables under the “Environment Variables” section.
 Usage Instructions
-Access the Application: Once deployed, you can access your application via the Vercel-provided URL (e.g., https://crypto-tracker.vercel.app).
+Access the Application: Once deployed, you can access your application via the Vercel-provided URL (e.g., https://cryptobazar.vercel.app).
 Homepage:
 Cryptocurrency List: View the list of cryptocurrencies with their logos.
 Current Value Display: Check the current traded value per coin.
