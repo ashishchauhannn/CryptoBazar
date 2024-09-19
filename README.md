@@ -67,3 +67,6 @@ Code Splitting: Use code splitting to load only the necessary JavaScript bundles
 Monitoring: Use tools like New Relic or Datadog to monitor application performance.
 
 Analytics: Integrate Google Analytics or similar tools to track user interactions and behavior.
+
+Here's the development link
+https://cryptobazar-steel.vercel.app/
